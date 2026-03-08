@@ -1,4 +1,7 @@
 FPGA Calculator using FSM (Verilog)
+
+
+
 Overview
 
 This project implements a simple calculator system on an FPGA using Verilog HDL. The calculator performs addition or multiplication on two 4-bit input numbers depending on the selected operation mode. The design is based on a Finite State Machine (FSM) which controls the sequence of operations in the system. The inputs are provided through switches on the FPGA board and the result of the calculation is displayed using the onboard LEDs.
